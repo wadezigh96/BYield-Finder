@@ -1,0 +1,7 @@
+{
+  "name": "bnb-yield-finder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Read-only BNB Chain yield discovery endpoint using public DeFiLlama data",
+  "engines": { "node": ">=20" }
+}
